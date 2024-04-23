@@ -1,1 +1,1 @@
-"# An-application-that-guides-students-who-are-interested-to-pursue-higher-studies" 
+This project will give you the shoertlisted universities based on the gre,IELTS and the percentage scored.
